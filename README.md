@@ -2,6 +2,9 @@
 
 I’m currently learning English.
 
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=shiniuniu.shiniuniu&left_color=green&right_color=red)
+
 <!--
 **shiniuniu/shiniuniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
