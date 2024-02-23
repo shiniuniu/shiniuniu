@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning English.
+I’m currently learning.
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=shiniuniu.shiniuniu&left_color=green&right_color=red)
 
